@@ -12,7 +12,9 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
-<div align ="center">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+<div>
 💫About Me:
  
  ---> 👨‍🏫 I'm student of mechatronics engineering.
@@ -29,9 +31,10 @@
   <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,py,discord,github,linux,vscode,autocad,mint&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,py,discord,github,linux,vscode,windows,autocad,mint&perline=14" />
   </a>
 </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
