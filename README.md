@@ -25,5 +25,13 @@
 </div>
 
 
-  
+<h2 align="center">Technologies 👨🏻‍💻</h2>
+  <!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,py,discord,github,linux,vscode,autocad,mint&perline=14" />
+  </a>
+</p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
